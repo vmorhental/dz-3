@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"/>
+<student>
+	<name>Alex</name>
+	<surname>Hanks</surname>
+	<score>288</score>
+	<age>25</age>
+	<hobbies>
+		<hobbie1>football</hobbie1>
+		<hobbie2>tennis</hobbie2>
+		<hobbie3>soccer</hobbie3>
+	</hobbies>
+	<history>Was born in ukraine, then traveled to USA and applied for university</history>
+	<characteristics>humble, brave, courageous, serious, resourceful</characteristics>
+	<Ukrainian>true</Ukrainian>
+	<friends>
+		<friend name="Jessica">
+			<gender>female</gender>
+			<age>23</age>
+			<nationality>American</nationality>
+		</friend>
+		<friend>
+			<name>Tom</name>
+			<gender>male</gender>
+			<age>26</age>
+			<nationality>Ukrainian</nationality>
+		</friend>
+	</friends>
+	<courses>
+		<course title="Math course">
+			<hours>80</hours>
+			<grade>null</grade>
+			<finished_course>false</finished_course>
+		</course>
+		<course title="Ukrainian course">
+			<hours>180</hours>
+			<grade>B</grade>
+			<finished_course>true</finished_course>
+		</course>
+	</courses>
+</student>
