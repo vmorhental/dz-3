@@ -29,7 +29,7 @@
 	<courses>
 		<course title="Math course">
 			<hours>80</hours>
-			<grade>null</grade>
+			<grade></grade>
 			<finished_course>false</finished_course>
 		</course>
 		<course title="Ukrainian course">
