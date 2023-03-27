@@ -1,0 +1,44 @@
+{
+	"student": {
+		"name": "Alex",
+		"surname":"Hanks",
+		"score": 288,
+		"age": 25,
+		"hobbies":["football", "tennis", "soccer"],
+		"history":"Was born in ukraine, then traveled to USA and applied for university",
+		"characteristics":"humble, brave, courageous, serious, resourceful",		
+		"Ukrainian": true,
+		"friends": [
+			{
+				"Jessica": {
+					"gender": "female",
+					"age": 23,
+					"nationality": "American"
+				}
+			},
+			{
+				"Tom": {
+					"gender": "male",
+					"age": 26,
+					"nationality": "Ukrainian"
+				}
+			}
+		],
+		"courses": [
+			{
+				"Math course": {
+					"hours": 80,
+					"grade": null,
+					"finished course": false
+				}
+			},
+			{
+				"Ukraininan language": {
+					"hours": 180,
+					"grade": "B",
+					"finished course": true
+				}
+			}
+		]
+	}
+}
